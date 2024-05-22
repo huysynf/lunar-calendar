@@ -1,5 +1,5 @@
 {
-    "name": "vantran/lunar-calendar",
+    "name": "huysynf/lunar-calendar",
     "description": "Thư viện PHP Âm lịch Việt Nam",
     "type": "library",
     "require": {
@@ -23,8 +23,8 @@
     },
     "authors": [
         {
-            "name": "vantran445",
-            "email": "CaoVan.Info@gmail.com"
+            "name": "huysynf",
+            "email": "huyhq.developer@gmail.com"
         }
     ],
     "bin": [
