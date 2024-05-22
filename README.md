@@ -3,7 +3,7 @@ Thư viện PHP Âm lịch
 
 ## Cài đặt
 ```
-composer require vantran/lunar-calendar
+composer require huysynf/lunar-calendar
 ```
 
 ## Hướng dẫn sử dụng (Tiếng Việt)
